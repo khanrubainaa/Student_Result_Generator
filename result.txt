@@ -1,0 +1,14 @@
+
+    ========== STUDENT RESULT ==========
+    Student Name: Rida
+    Subject          Marks
+    ------------------------------------English           100.00
+Maths             100.00
+Science           99.00
+Computer          98.00
+History           100.00
+------------------------------------
+    Total Marks: 497.00 / 500
+    Percentage: 99.40%
+    Grade: A
+    ====================================
